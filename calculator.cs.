@@ -6,10 +6,14 @@ class Calculator
     {
         Console.WriteLine("Name: Muhammad Saad Hassan, Roll No: 24-ST-058");
 int a = 5, b = 3;
+ multiplication
+Console.WriteLine("Multiplication: " + (a * b));
+=======
  substraction
 Console.WriteLine("Subtraction: " + (a - b));
 =======
 Console.WriteLine("Addition: " + (a + b));
+ main
  main
 
     }
