@@ -5,5 +5,8 @@ class Calculator
     static void Main()
     {
         Console.WriteLine("Name: Muhammad Saad Hassan, Roll No: 24-ST-058");
+int a = 5, b = 3;
+Console.WriteLine("Multiplication: " + (a * b));
+
     }
 }
